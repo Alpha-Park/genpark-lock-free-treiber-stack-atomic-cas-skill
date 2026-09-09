@@ -1,0 +1,17 @@
+{
+  "name": "genpark-lock-free-treiber-stack-atomic-cas-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Lock-Free Treiber Stack with Atomic Compare-and-Swap (CAS) & ABA Mitigation",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "concurrency",
+    "lock-free",
+    "treiber-stack",
+    "atomic-cas"
+  ]
+}
